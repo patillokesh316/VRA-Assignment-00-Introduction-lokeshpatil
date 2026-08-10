@@ -21,9 +21,9 @@
 
 Select one by replacing the empty box with `x`:
 
-- [ ] I need more revision.
-- [ ] I understand the basics but need practice.
-- [ ] I can confidently explain the introductory concepts.
+- [x] I need more revision.
+- [x] I understand the basics but need practice.
+- [x] I can confidently explain the introductory concepts.
 
 ## 5. One question I would like to ask Prof. Dattaraj Vidyasagar:
 
